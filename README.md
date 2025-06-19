@@ -15,6 +15,8 @@ The app **automatically detects the language** of the text you type — you don�
 - Uses Google Translate (no API key required)
 
 ---
+![image](https://github.com/user-attachments/assets/63eb6ab6-3146-4521-a603-7336a7c2eab3)
+
 
 ## 📦 Requirements
 
